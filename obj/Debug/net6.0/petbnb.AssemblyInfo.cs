@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("petbnb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc78a9eae7a2ddf4735a1bc256cecae701c7b33")]
 [assembly: System.Reflection.AssemblyProductAttribute("petbnb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("petbnb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

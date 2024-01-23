@@ -1,0 +1,30 @@
+RecaudacionSemanal 
+
+ID=**T1S32024**
+Trimestre:** Tratar de Hacerlo automaticon con el Timestamp
+Semana:**
+Año:**
+Diezmos
+Ofrendas
+ProyectoLocal
+O1
+O2
+TotalValidacion[Notmapped]
+Total
+TimeStamp
+IngresoBruto**(Ya deducido Diezmo y Ofrenda 40%)
+
+AporteSemanalFeligres
+Id
+Nombre
+Diezmos
+Ofrendas
+ProyectoLocal*
+IdRecaudacionSemanal
+
+IngresoSemanal**
+60%*Ofrendas
+ProyectoLocal
+
+
+
