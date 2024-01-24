@@ -457,6 +457,10 @@
       "PackagePath": "staticwebassets/img/logo.svg"
     },
     {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/logoiasd.png",
+      "PackagePath": "staticwebassets/img/logoiasd.png"
+    },
+    {
       "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/workspace/bg-about.png",
       "PackagePath": "staticwebassets/img/workspace/bg-about.png"
     },
@@ -575,6 +579,38 @@
     {
       "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/waypoints.min.js",
       "PackagePath": "staticwebassets/js/vendor/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
       "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.petbnb.props",
