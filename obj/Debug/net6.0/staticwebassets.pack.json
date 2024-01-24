@@ -1,755 +1,595 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\petbnb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\petbnb.bundle.scp.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/scopedcss/projectbundle/petbnb.bundle.scp.css",
+      "PackagePath": "staticwebassets/petbnb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\animate.min.css",
-      "PackagePath": "staticwebassets\\css\\animate.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/aos.css",
+      "PackagePath": "staticwebassets/css/aos.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/icons.css",
+      "PackagePath": "staticwebassets/css/icons.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main-rtl.css",
+      "PackagePath": "staticwebassets/css/main-rtl.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main-rtl.css.map",
+      "PackagePath": "staticwebassets/css/main-rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main-rtl.scss",
+      "PackagePath": "staticwebassets/css/main-rtl.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main.css.map",
+      "PackagePath": "staticwebassets/css/main.css.map"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/main.scss",
+      "PackagePath": "staticwebassets/css/main.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/normalize.css",
+      "PackagePath": "staticwebassets/css/normalize.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_alert.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\cochin.css",
-      "PackagePath": "staticwebassets\\css\\cochin.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\default-skin.css",
-      "PackagePath": "staticwebassets\\css\\default-skin.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_button.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_button.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_dropdown.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\icomoon.css",
-      "PackagePath": "staticwebassets\\css\\icomoon.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_effects.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_effects.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\jquery-ui.css",
-      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_form.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_form.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\jquery.fancybox.min.css",
-      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_modal.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
-      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_pagination.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\meanmenu.css",
-      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_toasts.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\nice-select.css",
-      "PackagePath": "staticwebassets\\css\\nice-select.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/components/_tooltip.scss",
+      "PackagePath": "staticwebassets/css/sass/components/_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\normalize.css",
-      "PackagePath": "staticwebassets\\css\\normalize.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/helpers/_mixins.scss",
+      "PackagePath": "staticwebassets/css/sass/helpers/_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\owl.carousel.min.css",
-      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/helpers/_variables.scss",
+      "PackagePath": "staticwebassets/css/sass/helpers/_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\responsive.css",
-      "PackagePath": "staticwebassets\\css\\responsive.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_about.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_about.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\slick.css",
-      "PackagePath": "staticwebassets\\css\\slick.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_account.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_account.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_banner_section.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_banner_section.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_blog.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_blog.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_contact.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_contact.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\IcoMoon-Free.ttf",
-      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_countdown.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_countdown.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Black.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_crypto.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_crypto.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_donat.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_donat.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Bold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_faq.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_faq.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_features.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_features.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_footer.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_footer.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_header.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_header.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_horizontalscroll.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_horizontalscroll.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_logos.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_logos.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Italic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_map.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_map.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Light.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_newsletter.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_newsletter.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_other.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_other.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Medium.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_pricing.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_pricing.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_products.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_products.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Regular.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_projects.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_projects.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_search.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_search.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_services.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_services.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-Thin.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_slider.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_slider.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_state.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_state.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\cochin.woff",
-      "PackagePath": "staticwebassets\\fonts\\cochin.woff"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_tabs.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_tabs.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\cochin.woff2",
-      "PackagePath": "staticwebassets\\fonts\\cochin.woff2"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_team.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_team.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\cochinbold_italic.ttf",
-      "PackagePath": "staticwebassets\\fonts\\cochinbold_italic.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_testimonial.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_testimonial.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\cochinbold_italic.woff",
-      "PackagePath": "staticwebassets\\fonts\\cochinbold_italic.woff"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/layout/_timeline.scss",
+      "PackagePath": "staticwebassets/css/sass/layout/_timeline.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\cochinbold_italic.woff2",
-      "PackagePath": "staticwebassets\\fonts\\cochinbold_italic.woff2"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/pages/_globalpage.scss",
+      "PackagePath": "staticwebassets/css/sass/pages/_globalpage.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/sass/pages/_rtl.scss",
+      "PackagePath": "staticwebassets/css/sass/pages/_rtl.scss"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/swiper.min.css",
+      "PackagePath": "staticwebassets/css/swiper.min.css"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/The-Icon-of.eot",
+      "PackagePath": "staticwebassets/fonts/The-Icon-of.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/The-Icon-of.svg",
+      "PackagePath": "staticwebassets/fonts/The-Icon-of.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\about_img.png",
-      "PackagePath": "staticwebassets\\images\\about_img.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/The-Icon-of.ttf",
+      "PackagePath": "staticwebassets/fonts/The-Icon-of.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\about_right_cross.jpg",
-      "PackagePath": "staticwebassets\\images\\about_right_cross.jpg"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/The-Icon-of.woff",
+      "PackagePath": "staticwebassets/fonts/The-Icon-of.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\banner_img.png",
-      "PackagePath": "staticwebassets\\images\\banner_img.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/The-Icon-of.woff2",
+      "PackagePath": "staticwebassets/fonts/The-Icon-of.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass1.png",
-      "PackagePath": "staticwebassets\\images\\glass1.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass2.png",
-      "PackagePath": "staticwebassets\\images\\glass2.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass3.png",
-      "PackagePath": "staticwebassets\\images\\glass3.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass4.png",
-      "PackagePath": "staticwebassets\\images\\glass4.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass5.png",
-      "PackagePath": "staticwebassets\\images\\glass5.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass6.png",
-      "PackagePath": "staticwebassets\\images\\glass6.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Black.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Black.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass7.png",
-      "PackagePath": "staticwebassets\\images\\glass7.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\glass8.png",
-      "PackagePath": "staticwebassets\\images\\glass8.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\loading.gif",
-      "PackagePath": "staticwebassets\\images\\loading.gif"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\logo.png",
-      "PackagePath": "staticwebassets\\images\\logo.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\logo1.png",
-      "PackagePath": "staticwebassets\\images\\logo1.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\logoiasd.png",
-      "PackagePath": "staticwebassets\\images\\logoiasd.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BlackItalic.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BlackItalic.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\logoiasdhcl.png",
-      "PackagePath": "staticwebassets\\images\\logoiasdhcl.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\menu_icon.png",
-      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\our.png",
-      "PackagePath": "staticwebassets\\images\\our.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\images\\shop_img.png",
-      "PackagePath": "staticwebassets\\images\\shop_img.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Bold.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BoldItalic.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BoldItalic.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\custom.js",
-      "PackagePath": "staticwebassets\\js\\custom.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\jquery-3.0.0.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\modernizer.js",
-      "PackagePath": "staticwebassets\\js\\modernizer.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Book.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Book.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\plugin.js",
-      "PackagePath": "staticwebassets\\js\\plugin.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\js\\popper.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\coloredbg.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\coloredbg.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\gridtile.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\gridtile_3x3.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\gridtile_3x3_white.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_3x3_white.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-BookItalic.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-BookItalic.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\gridtile_white.png",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\gridtile_white.png"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\assets\\loader.gif",
-      "PackagePath": "staticwebassets\\js\\revolution\\assets\\loader.gif"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\css\\closedhand.html",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\closedhand.html"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\css\\layers.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\layers.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\css\\navigation.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\navigation.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\css\\openhand.html",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\openhand.html"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-Medium.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\css\\settings.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\css\\settings.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.eot",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.eot"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.otf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.otf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.svg",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.ttf"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.woff",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.woff"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/fonts/text-font/CircularStd-MediumItalic.woff2",
+      "PackagePath": "staticwebassets/fonts/text-font/CircularStd-MediumItalic.woff2"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/01.jpg",
+      "PackagePath": "staticwebassets/img/01.jpg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/logo-o.png",
+      "PackagePath": "staticwebassets/img/logo-o.png"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/logo.svg",
+      "PackagePath": "staticwebassets/img/logo.svg"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
-      "PackagePath": "staticwebassets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/img/workspace/bg-about.png",
+      "PackagePath": "staticwebassets/img/workspace/bg-about.png"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/jquery-3.5.0.js",
+      "PackagePath": "staticwebassets/js/jquery-3.5.0.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/jquery-migrate.min.js",
+      "PackagePath": "staticwebassets/js/jquery-migrate.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/agency.js",
+      "PackagePath": "staticwebassets/js/pages/agency.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/crypto.js",
+      "PackagePath": "staticwebassets/js/pages/crypto.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/hosting.js",
+      "PackagePath": "staticwebassets/js/pages/hosting.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/interior.js",
+      "PackagePath": "staticwebassets/js/pages/interior.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/mobile.js",
+      "PackagePath": "staticwebassets/js/pages/mobile.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/sass.js",
+      "PackagePath": "staticwebassets/js/pages/sass.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
-      "PackagePath": "staticwebassets\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/sass2.js",
+      "PackagePath": "staticwebassets/js/pages/sass2.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\js\\slider-setting.js",
-      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/pages/toggle-pricing.js",
+      "PackagePath": "staticwebassets/js/pages/toggle-pricing.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/ScrollMagic.js",
+      "PackagePath": "staticwebassets/js/vendor/ScrollMagic.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/TweenMax.min.js",
+      "PackagePath": "staticwebassets/js/vendor/TweenMax.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/animation.gsap.js",
+      "PackagePath": "staticwebassets/js/vendor/animation.gsap.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/aos.js",
+      "PackagePath": "staticwebassets/js/vendor/aos.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/charming.min.js",
+      "PackagePath": "staticwebassets/js/vendor/charming.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/countdown.js",
+      "PackagePath": "staticwebassets/js/vendor/countdown.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/debug.addIndicators.min.js",
+      "PackagePath": "staticwebassets/js/vendor/debug.addIndicators.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/vendor/imagesloaded.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery.bxslider.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/jquery.counterup.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/particles.min.js",
+      "PackagePath": "staticwebassets/js/vendor/particles.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/sharer.js",
+      "PackagePath": "staticwebassets/js/vendor/sharer.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/simpleParallax.min.js",
+      "PackagePath": "staticwebassets/js/vendor/simpleParallax.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/sticky.min.js",
+      "PackagePath": "staticwebassets/js/vendor/sticky.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/swiper.min.js",
+      "PackagePath": "staticwebassets/js/vendor/swiper.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/js/vendor/waypoints.min.js",
+      "PackagePath": "staticwebassets/js/vendor/waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Christian\\source\\repos\\petbnb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.petbnb.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.petbnb.props",
       "PackagePath": "build\\petbnb.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.petbnb.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.petbnb.props",
       "PackagePath": "buildMultiTargeting\\petbnb.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.petbnb.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.petbnb.props",
       "PackagePath": "buildTransitive\\petbnb.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.petbnb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.petbnb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],
