@@ -1,66 +1,180 @@
-﻿@* <!-- Javascript files-->
-<script src="~/js/jquery.min.js"></script>
+﻿<!-- Javascript files-->
+<script src="~/js/jquery-3.5.0.js"></script>
 <script src="~/js/popper.min.js"></script>
-<script src="~/js/bootstrap.bundle.min.js"></script>
-<script src="~/js/jquery-3.0.0.min.js"></script>
+<script src="~/js/bootstrap.min.js"></script>
+<script src="~/js/jquery-migrate.min.js"></script>
 <!-- sidebar -->
-<script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script>
-<script src="~/js/custom.js"></script> *@
-  <!-- particles -->
-  <script src="~/js/vendor/particles.min.js" type="text/javascript"></script>
-  <!-- TweenMax -->
-  <script src="~/js/vendor/TweenMax.min.js" type="text/javascript"></script>
-  <!-- ScrollMagic -->
-  <script src="~/js/vendor/ScrollMagic.js" type="text/javascript"></script>
-  <!-- animation.gsap -->
-  <script src="~/js/vendor/animation.gsap.js" type="text/javascript"></script>
-  <!-- addIndicators -->
-  <script src="~/js/vendor/debug.addIndicators.min.js" type="text/javascript"></script>
-  <!-- Swiper js -->
-  <script src="~/js/vendor/swiper.min.js" type="text/javascript"></script>
-  <!-- countdown -->
-  <script src="~/js/vendor/countdown.js" type="text/javascript"></script>
-  <!-- simpleParallax -->
-  <script src="~/js/vendor/simpleParallax.min.js" type="text/javascript"></script>
-  <!-- waypoints -->
-  <script src="~/js/vendor/waypoints.min.js" type="text/javascript"></script>
-  <!-- counterup -->
-  <script src="~/js/vendor/jquery.counterup.min.js" type="text/javascript"></script>
-  <!-- charming -->
-  <script src="~/js/vendor/charming.min.js" type="text/javascript"></script>
-  <!-- imagesloaded -->
-  <script src="~/js/vendor/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-  <!-- BX-Slider -->
-  <script src="~/js/vendor/jquery.bxslider.min.js" type="text/javascript"></script>
-  <!-- Sharer -->
-  <script src="~/js/vendor/sharer.js" type="text/javascript"></script>
-  <!-- sticky -->
-  <script src="~/js/vendor/sticky.min.js" type="text/javascript"></script>
-  <!-- Aos -->
-  <script src="~/js/vendor/aos.js" type="text/javascript"></script>
-  <!-- main file -->
-  <script src="~/js/main.js" type="text/javascript"></script>
+@* <script src="~/js/jquery.mCustomScrollbar.concat.min.js"></script> *@
+@* <script src="~/js/custom.js"></script> *@
+<!-- particles -->
+<script src="~/js/vendor/particles.min.js" type="text/javascript"></script>
+<!-- TweenMax -->
+<script src="~/js/vendor/TweenMax.min.js" type="text/javascript"></script>
+<!-- ScrollMagic -->
+<script src="~/js/vendor/ScrollMagic.js" type="text/javascript"></script>
+<!-- animation.gsap -->
+<script src="~/js/vendor/animation.gsap.js" type="text/javascript"></script>
+<!-- addIndicators -->
+<script src="~/js/vendor/debug.addIndicators.min.js" type="text/javascript"></script>
+<!-- Swiper js -->
+<script src="~/js/vendor/swiper.min.js" type="text/javascript"></script>
+<!-- countdown -->
+<script src="~/js/vendor/countdown.js" type="text/javascript"></script>
+<!-- simpleParallax -->
+<script src="~/js/vendor/simpleParallax.min.js" type="text/javascript"></script>
+<!-- waypoints -->
+<script src="~/js/vendor/waypoints.min.js" type="text/javascript"></script>
+<!-- counterup -->
+<script src="~/js/vendor/jquery.counterup.min.js" type="text/javascript"></script>
+<!-- charming -->
+<script src="~/js/vendor/charming.min.js" type="text/javascript"></script>
+<!-- imagesloaded -->
+<script src="~/js/vendor/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+<!-- BX-Slider -->
+<script src="~/js/vendor/jquery.bxslider.min.js" type="text/javascript"></script>
+<!-- Sharer -->
+<script src="~/js/vendor/sharer.js" type="text/javascript"></script>
+<!-- sticky -->
+<script src="~/js/vendor/sticky.min.js" type="text/javascript"></script>
+<!-- Aos -->
+<script src="~/js/vendor/aos.js" type="text/javascript"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<!-- main file -->
+<script src="~/js/main.js" type="text/javascript"></script>
 
 <script>
-    // This example adds a marker to indicate the position of Bondi Beach in Sydney,
-    // Australia.
-    function initMap() {
-    var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 11,
-        center: {lat: 40.645037, lng: -73.880224},
-        });
-         
-    var image = 'images/maps-and-flags.png';
-    var beachMarker = new google.maps.Marker({
-        position: {lat: 40.645037, lng: -73.880224},
-        map: map,
-        icon: image
+    const ctx = document.getElementById('myChart');
+
+    new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3],
+                borderWidth: 3,
+                fill: true,
+                tension: 0.2,
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
     });
-    }
 </script>
-<!-- google map js -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
-<!-- end google map js --> 
+<script>
+    const ctx2 = document.getElementById('myChart2');
+    const data = {
+        labels: [
+            'Red',
+            'Blue',
+            'Yellow'
+        ],
+        datasets: [{
+            label: 'My First Dataset',
+            data: [300, 50, 100],
+            backgroundColor: [
+                'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)'
+            ],
+            hoverOffset: 4
+        }]
+    };
+    new Chart(ctx2, {
+        type: 'doughnut', // Corrected type
+        data: data,
+    });
+</script>
+<script>
+    const ctx3 = document.getElementById('myChart3');
+    const data2 = {
+        labels: [
+            'Red',
+            'Blue',
+            'Yellow'
+        ],
+        datasets: [{
+            label: 'My First Dataset',
+            data: [200, 300, 20],
+            backgroundColor: [
+                'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)'
+            ],
+            hoverOffset: 4
+        }]
+    };
+    new Chart(ctx3, {
+        type: 'doughnut', // Corrected type
+        data: data2,
+    });
+</script>
+<script>
+    const ctx4 = document.getElementById('myChart4');
+    const data3 = {
+        labels: [
+            'Red',
+            'Blue',
+            'Yellow'
+        ],
+        datasets: [{
+            label: 'My First Dataset',
+            data: [300, 50, 100],
+            backgroundColor: [
+                'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)'
+            ],
+            hoverOffset: 4
+        }]
+    };
+    new Chart(ctx4, {
+        type: 'pie', // Corrected type
+        data: data3,
+    });
+</script>
+<script>
+    const ctx5 = document.getElementById('myChart5');
+    const data4 = {
+        labels: [
+            'January',
+            'February',
+            'March',
+            'April'
+        ],
+        datasets: [{
+            type: 'bar',
+            label: 'Bar Dataset',
+            data: [10, 20, 30, 40],
+            borderColor: 'rgb(255, 99, 132)',
+            backgroundColor: 'rgba(255, 99, 132, 0.2)'
+        }, {
+            type: 'line',
+            label: 'Line Dataset',
+            data: [50, 50, 50, 50],
+            fill: false,
+            borderColor: 'rgb(54, 162, 235)'
+        }]
+    };
+    const mixedChart = new Chart(ctx5, {
+        data: data4,
+        type: 'scatter',
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
 
 
 @* CONFIG ANTERIOR *@

@@ -96,7 +96,8 @@ class="form-horizontal">
 
                 <div class="title_sections margin-b-5">
                     <h2 class="c-white mb-1">Ingreso</h2>
-                    <p class="c-gray">Nuevo usuario? <a href="signup-3.html" style="color:#5dc7dd">Solicita una cuenta</a></p>
+                    <p class="c-gray">Nuevo usuario? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl"
+                            style="color:#5dc7dd">Solicita una cuenta</a></p>
                 </div>
 
                 <div class="list__point">
@@ -121,7 +122,8 @@ class="form-horizontal">
                             <i class="tio call_talking"></i>
                         </div>
                         <div class="media-body my-auto">
-                            <p>Gestión de transparencia, control de ingresos y egresos, exportado de reportes & mucho más</p>
+                            <p>Gestión de transparencia, control de ingresos y egresos, exportado de reportes & mucho
+                                más</p>
                         </div>
                     </div>
                 </div>
@@ -134,7 +136,8 @@ class="form-horizontal">
                         <div class="col-12">
                             <div class="form-group">
                                 <label>Dirección de correo</label>
-                                <input type="email" asp-for="Input.Email" class="form-control" placeholder="Dirección de correo"aria-required="true">
+                                <input type="email" asp-for="Input.Email" class="form-control"
+                                    placeholder="Dirección de correo" aria-required="true">
                                 <span asp-validation-for="Input.Email" class="text-danger"></span>
                             </div>
                         </div>
@@ -142,61 +145,63 @@ class="form-horizontal">
                             <div class="form-group --password" id="show_hide_password">
                                 <label>Contraseña</label>
                                 <div class="input-group">
-                                    <input type="password" asp-for="Input.Password"  class="form-control" data-toggle="password"
-                                        placeholder="Contraseña" aria-required="true" />
+                                    <input type="password" asp-for="Input.Password" class="form-control"
+                                        data-toggle="password" placeholder="Contraseña" aria-required="true" />
                                     <span asp-validation-for="Input.Password" class="text-danger"></span>
                                     <div class="input-group-prepend hide_show">
                                         <a href=""><span class="input-group-text tio hidden_outlined"></span></a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="forgot-3.html" class="d-flex justify-content-end font-s-13" style="color:#3e8391">Olvidaste tu contraseña</a>
+                            <a href="forgot-3.html" class="d-flex justify-content-end font-s-13"
+                                style="color:#3e8391">Olvidaste tu contraseña</a>
                         </div>
 
                         <div class="col-12">
-                            <a href="#" class="btn w-100 margin-t-3 btn_account c-white rounded-8" style="background-color:#3e8391" >
+                            <a href="#" class="btn w-100 margin-t-3 btn_account c-white rounded-8"
+                                style="background-color:#3e8391">
                                 Ingresar
                             </a>
                         </div>
                         @* <div class="col-12">
-                            <div class="google_sign margin-t-3">
-                                <p class="text-center font-s-13 c-gray margin-b-3">Or Sign Up With E-Mail</p>
-                                <button type="button" class="btn btn_social rounded-8 mb-3">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
-                                        <g id="Group_6390" data-name="Group 6390" transform="translate(-595 -504)">
-                                            <circle id="Ellipse_227" data-name="Ellipse 227" cx="12.5" cy="12.5"
-                                                r="12.5" transform="translate(595 504)" fill="#fff" />
-                                            <g id="brands-and-logotypes" transform="translate(598.096 507.096)">
-                                                <path id="Path_1609" data-name="Path 1609"
-                                                    d="M4.344,105.854a4.893,4.893,0,0,1,.693-2.515v-3.124H1.912a9.272,9.272,0,0,0,0,11.279H5.036v-3.124A4.893,4.893,0,0,1,4.344,105.854Z"
-                                                    transform="translate(0 -96.587)" fill="#fbbd00" />
-                                                <path id="Path_1610" data-name="Path 1610"
-                                                    d="M198.172,373.65,196,375.822l2.172,2.172a9.2,9.2,0,0,0,5.639-1.912v-3.121H200.69A4.922,4.922,0,0,1,198.172,373.65Z"
-                                                    transform="translate(-188.905 -359.46)" fill="#0f9d58" />
-                                                <path id="Path_1611" data-name="Path 1611"
-                                                    d="M55.947,325.477,52.823,328.6a9.415,9.415,0,0,0,.8.913,9.207,9.207,0,0,0,6.553,2.714v-4.344A4.925,4.925,0,0,1,55.947,325.477Z"
-                                                    transform="translate(-50.911 -313.695)" fill="#31aa52" />
-                                                <path id="Path_1612" data-name="Path 1612"
-                                                    d="M265.267,199.448a9.351,9.351,0,0,0-.152-1.679l-.082-.445H256v4.344h4.4a4.9,4.9,0,0,1-1.878,2.014l3.121,3.121a9.417,9.417,0,0,0,.913-.8A9.206,9.206,0,0,0,265.267,199.448Z"
-                                                    transform="translate(-246.733 -190.181)" fill="#3c79e6" />
-                                                <path id="Path_1613" data-name="Path 1613"
-                                                    d="M201.653,5.786l.384.384L205.109,3.1l-.384-.384A9.206,9.206,0,0,0,198.172,0L196,2.172l2.172,2.172A4.891,4.891,0,0,1,201.653,5.786Z"
-                                                    transform="translate(-188.905 0)" fill="#cf2d48" />
-                                                <path id="Path_1614" data-name="Path 1614"
-                                                    d="M60.177,4.344V0a9.207,9.207,0,0,0-6.553,2.714,9.406,9.406,0,0,0-.8.913l3.124,3.124A4.925,4.925,0,0,1,60.177,4.344Z"
-                                                    transform="translate(-50.91 0)" fill="#eb4132" />
-                                            </g>
-                                        </g>
-                                    </svg>
-                                    Sign up with Google
-                                </button>
+                        <div class="google_sign margin-t-3">
+                        <p class="text-center font-s-13 c-gray margin-b-3">Or Sign Up With E-Mail</p>
+                        <button type="button" class="btn btn_social rounded-8 mb-3">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+                        <g id="Group_6390" data-name="Group 6390" transform="translate(-595 -504)">
+                        <circle id="Ellipse_227" data-name="Ellipse 227" cx="12.5" cy="12.5"
+                        r="12.5" transform="translate(595 504)" fill="#fff" />
+                        <g id="brands-and-logotypes" transform="translate(598.096 507.096)">
+                        <path id="Path_1609" data-name="Path 1609"
+                        d="M4.344,105.854a4.893,4.893,0,0,1,.693-2.515v-3.124H1.912a9.272,9.272,0,0,0,0,11.279H5.036v-3.124A4.893,4.893,0,0,1,4.344,105.854Z"
+                        transform="translate(0 -96.587)" fill="#fbbd00" />
+                        <path id="Path_1610" data-name="Path 1610"
+                        d="M198.172,373.65,196,375.822l2.172,2.172a9.2,9.2,0,0,0,5.639-1.912v-3.121H200.69A4.922,4.922,0,0,1,198.172,373.65Z"
+                        transform="translate(-188.905 -359.46)" fill="#0f9d58" />
+                        <path id="Path_1611" data-name="Path 1611"
+                        d="M55.947,325.477,52.823,328.6a9.415,9.415,0,0,0,.8.913,9.207,9.207,0,0,0,6.553,2.714v-4.344A4.925,4.925,0,0,1,55.947,325.477Z"
+                        transform="translate(-50.911 -313.695)" fill="#31aa52" />
+                        <path id="Path_1612" data-name="Path 1612"
+                        d="M265.267,199.448a9.351,9.351,0,0,0-.152-1.679l-.082-.445H256v4.344h4.4a4.9,4.9,0,0,1-1.878,2.014l3.121,3.121a9.417,9.417,0,0,0,.913-.8A9.206,9.206,0,0,0,265.267,199.448Z"
+                        transform="translate(-246.733 -190.181)" fill="#3c79e6" />
+                        <path id="Path_1613" data-name="Path 1613"
+                        d="M201.653,5.786l.384.384L205.109,3.1l-.384-.384A9.206,9.206,0,0,0,198.172,0L196,2.172l2.172,2.172A4.891,4.891,0,0,1,201.653,5.786Z"
+                        transform="translate(-188.905 0)" fill="#cf2d48" />
+                        <path id="Path_1614" data-name="Path 1614"
+                        d="M60.177,4.344V0a9.207,9.207,0,0,0-6.553,2.714,9.406,9.406,0,0,0-.8.913l3.124,3.124A4.925,4.925,0,0,1,60.177,4.344Z"
+                        transform="translate(-50.91 0)" fill="#eb4132" />
+                        </g>
+                        </g>
+                        </svg>
+                        Sign up with Google
+                        </button>
 
-                                <button type="button" class="btn btn_social rounded-8 bg-black c-white">
-                                    <i class="tio apple"></i>
-                                    Continue with Apple
-                                </button>
+                        <button type="button" class="btn btn_social rounded-8 bg-black c-white">
+                        <i class="tio apple"></i>
+                        Continue with Apple
+                        </button>
 
-                            </div>
+                        </div>
                         </div> *@
                     </form>
                 </div>
@@ -208,11 +213,12 @@ class="form-horizontal">
 </section>
 
 <!-- Start item_footer -->
-<div class="item_footer" style="padding-left: 15px;padding-right:15px;" >
+<div class="item_footer" style="padding-left: 15px;padding-right:15px;">
     <div class="container">
         <div class="row justify-content-center">
             <div>
-                <p style="text-align:center">© 2024 <a href="#" target="_blank">Iglesia Adventista de los Últimos Dias</a> Todos los derechos reservados
+                <p style="text-align:center">© 2024 <a href="#" target="_blank">Iglesia Adventista de los Últimos
+                        Dias</a> Todos los derechos reservados
                 </p>
             </div>
         </div>
@@ -229,5 +235,5 @@ class="form-horizontal">
 </div>
 
 @section Scripts {
-<partial name="_ValidationScriptsPartial" />
+    <partial name="_ValidationScriptsPartial" />
 }

@@ -510,9 +510,7 @@ C:/Users/Christian/source/repos/petbnb/bin/Debug/net6.0/runtimes/win/lib/net6.0/
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.petbnb.props
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.petbnb.props
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/staticwebassets.pack.json
-/Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/scopedcss/bundle/petbnb.styles.css
-/Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/scopedcss/projectbundle/petbnb.bundle.scp.css
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/petbnb.csproj.CopyComplete
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/petbnb.dll
 /Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/refint/petbnb.dll

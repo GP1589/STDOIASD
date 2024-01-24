@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/migue/Proyects/NetCore/STDOIASD/obj/Debug/net6.0/scopedcss/projectbundle/petbnb.bundle.scp.css",
-      "PackagePath": "staticwebassets/petbnb.bundle.scp.css"
-    },
-    {
       "Id": "/Users/migue/Proyects/NetCore/STDOIASD/wwwroot/css/animate.css",
       "PackagePath": "staticwebassets/css/animate.css"
     },

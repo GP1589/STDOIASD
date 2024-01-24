@@ -4,63 +4,252 @@
     ViewData["Title"] = "Register";
 }
 
-<h1>@ViewData["Title"]</h1>
+@* <div class="row">
+<div class="col-md-4">
+<form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+<h2>Create a new account.</h2>
+<hr />
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+<div class="form-floating">
+<input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+<label asp-for="Input.Email"></label>
+<span asp-validation-for="Input.Email" class="text-danger"></span>
+</div>
+<div class="form-floating">
+<input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
+<label asp-for="Input.Password"></label>
+<span asp-validation-for="Input.Password" class="text-danger"></span>
+</div>
+<div class="form-floating">
+<input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
+<label asp-for="Input.ConfirmPassword"></label>
+<span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+</div>
+<button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+</form>
+</div>
+<div class="col-md-6 col-md-offset-2">
+<section>
+<h3>Use another service to register.</h3>
+<hr />
+@{
+if ((Model.ExternalLogins?.Count ?? 0) == 0)
+{
+<div>
+<p>
+There are no external authentication services configured. See this <a
+href="https://go.microsoft.com/fwlink/?LinkID=532715">article
+about setting up this ASP.NET application to support logging in via external services</a>.
+</p>
+</div>
+}
+else
+{
+<form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post"
+class="form-horizontal">
+<div>
+<p>
+@foreach (var provider in Model.ExternalLogins!)
+{
+<button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your
+@provider.DisplayName account">@provider.DisplayName</button>
+}
+</p>
+</div>
+</form>
+}
+}
+</section>
+</div>
+</div> *@
 
-<div class="row">
-    <div class="col-md-4">
-        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
-            <h2>Create a new account.</h2>
-            <hr />
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-floating">
-                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
-                <label asp-for="Input.Email"></label>
-                <span asp-validation-for="Input.Email" class="text-danger"></span>
-            </div>
-            <div class="form-floating">
-                <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" />
-                <label asp-for="Input.Password"></label>
-                <span asp-validation-for="Input.Password" class="text-danger"></span>
-            </div>
-            <div class="form-floating">
-                <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" />
-                <label asp-for="Input.ConfirmPassword"></label>
-                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
-            </div>
-            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
-        </form>
-    </div>
-    <div class="col-md-6 col-md-offset-2">
-        <section>
-            <h3>Use another service to register.</h3>
-            <hr />
-            @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                        <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
-                            about setting up this ASP.NET application to support logging in via external services</a>.
-                        </p>
+<!-- Start form_signup_onek -->
+<section class="form_signup_one signup_two">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 offset-1 my-auto">
+
+                <div class="item_brand margin-b-3">
+                    <a href="index.html">
+                        <img class="mb-2" src="~/img/logoiasd.png" alt="">
+                        <span>Iglesia Adventista de los Ultimos Dias</span>
+                    </a>
+                </div>
+
+                <div class="title_sections margin-b-5">
+                    <h2 class="c-white mb-1">Crear una cuenta</h2>
+                    <p class="c-gray">Ya tienes una cuenta? <a asp-page="./Login" asp-route-returnUrl="@Model.ReturnUrl" class="c-blue">Login</a></p>
+                </div>
+
+                <div class="list__point">
+                    <div class="item media">
+                        <div class="icob">
+                            <i class="tio account_circle"></i>
+                        </div>
+                        <div class="media-body my-auto">
+                            <p>Join us</p>
+                        </div>
                     </div>
-                }
-                else
-                {
-                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
-                        <div>
-                            <p>
-                                @foreach (var provider in Model.ExternalLogins!)
-                                {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
-                                }
-                            </p>
+                    <div class="item media">
+                        <div class="icob">
+                            <i class="tio explore_outlined"></i>
+                        </div>
+                        <div class="media-body my-auto">
+                            <p>Bring your own talent pool or let us
+                                match your posts with the best ones</p>
+                        </div>
+                    </div>
+                    <div class="item media">
+                        <div class="icob">
+                            <i class="tio call_talking"></i>
+                        </div>
+                        <div class="media-body my-auto">
+                            <p>Get in touch with the talents with just a few clicks without cold calls or emails</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-md-7 col-lg-5 ml-lg-auto">
+                <div class="item_group">
+                    <form asp-route-returnUrl="@Model.ReturnUrl" method="post" class="row">
+                        @* <div class="col-12">
+                            <div class="google_sign">
+                                <button type="button" class="btn btn_social rounded-8">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+                                        <g id="Group_6390" data-name="Group 6390" transform="translate(-595 -504)">
+                                            <circle id="Ellipse_227" data-name="Ellipse 227" cx="12.5" cy="12.5"
+                                                r="12.5" transform="translate(595 504)" fill="#fff" />
+                                            <g id="brands-and-logotypes" transform="translate(598.096 507.096)">
+                                                <path id="Path_1609" data-name="Path 1609"
+                                                    d="M4.344,105.854a4.893,4.893,0,0,1,.693-2.515v-3.124H1.912a9.272,9.272,0,0,0,0,11.279H5.036v-3.124A4.893,4.893,0,0,1,4.344,105.854Z"
+                                                    transform="translate(0 -96.587)" fill="#fbbd00" />
+                                                <path id="Path_1610" data-name="Path 1610"
+                                                    d="M198.172,373.65,196,375.822l2.172,2.172a9.2,9.2,0,0,0,5.639-1.912v-3.121H200.69A4.922,4.922,0,0,1,198.172,373.65Z"
+                                                    transform="translate(-188.905 -359.46)" fill="#0f9d58" />
+                                                <path id="Path_1611" data-name="Path 1611"
+                                                    d="M55.947,325.477,52.823,328.6a9.415,9.415,0,0,0,.8.913,9.207,9.207,0,0,0,6.553,2.714v-4.344A4.925,4.925,0,0,1,55.947,325.477Z"
+                                                    transform="translate(-50.911 -313.695)" fill="#31aa52" />
+                                                <path id="Path_1612" data-name="Path 1612"
+                                                    d="M265.267,199.448a9.351,9.351,0,0,0-.152-1.679l-.082-.445H256v4.344h4.4a4.9,4.9,0,0,1-1.878,2.014l3.121,3.121a9.417,9.417,0,0,0,.913-.8A9.206,9.206,0,0,0,265.267,199.448Z"
+                                                    transform="translate(-246.733 -190.181)" fill="#3c79e6" />
+                                                <path id="Path_1613" data-name="Path 1613"
+                                                    d="M201.653,5.786l.384.384L205.109,3.1l-.384-.384A9.206,9.206,0,0,0,198.172,0L196,2.172l2.172,2.172A4.891,4.891,0,0,1,201.653,5.786Z"
+                                                    transform="translate(-188.905 0)" fill="#cf2d48" />
+                                                <path id="Path_1614" data-name="Path 1614"
+                                                    d="M60.177,4.344V0a9.207,9.207,0,0,0-6.553,2.714,9.406,9.406,0,0,0-.8.913l3.124,3.124A4.925,4.925,0,0,1,60.177,4.344Z"
+                                                    transform="translate(-50.91 0)" fill="#eb4132" />
+                                            </g>
+                                        </g>
+                                    </svg>
+                                    Sign up with Google
+                                </button>
+                                <p class="text-center font-s-13 c-gray margin-my-3">Or Sign Up With E-Mail</p>
+                            </div>
+                        </div> *@
+                        <div class="col-12">
+                            <div class="form-group">
+                                <label>Direccion de correo</label>
+                                <input asp-for="Input.Email" type="email" class="form-control"
+                                    placeholder="email address">
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Nombres</label>
+                                <input type="text" class="form-control" placeholder="first name">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Apellidos</label>
+                                <input type="text" class="form-control" placeholder="last Name">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group --password" id="show_hide_password">
+                                <label>Contraseña</label>
+                                <div class="input-group">
+                                    <input asp-for="Input.Password" type="password" class="form-control"
+                                        data-toggle="password" placeholder="+6 Characters" required="" />
+                                    <div class="input-group-prepend hide_show">
+                                        <a href=""><span class="input-group-text tio hidden_outlined"></span></a>
+                                    </div>
+                                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label>Seleccione el rol</label>
+                                <select class="form-control custom-select">
+                                    <option>Please Select</option>
+                                    <option>Purchase</option>
+                                    <option>Support</option>
+                                    <option>Technique</option>
+                                    <option>Service Request</option>
+                                </select>
+                            </div>
+                        </div>
+                        @* <div class="col-md-12">
+                        <div class="form-group --password" id="show_hide_password">
+                        <label>Confirmar Contraseña</label>
+                        <div class="input-group">
+                        <input asp-for="Input.Password" type="password" class="form-control" data-toggle="password"
+                        placeholder="+6 Characters" required="" />
+                        <div class="input-group-prepend hide_show">
+                        <a href=""><span class="input-group-text tio hidden_outlined"></span></a>
+                        </div>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+                        </div>
+                        </div> *@
+                        <div class="col-12">
+                            @* <p class="font-s-13 mb-0">
+                            By clicking on the Sign Up button, you agree to Rakon.
+                            <a href="#" target="_blank" class="c-blue">
+                            terms and conditions of use.
+                            </a>
+                            </p> *@
+
+                            <button type="submit"
+                                class="btn w-100 margin-t-3 btn_account bg-orange-red c-white rounded-8">
+                                Crear cuenta
+                            </button>
                         </div>
                     </form>
-                }
-            }
-        </section>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- End.form_signup_one -->
+
+<!-- Start item_footer -->
+<div class="item_footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 offset-lg-1">
+                <p>© 2020 <a href="https://themeforest.net/user/orinostu" target="_blank">Orino Studio.</a> All Right
+                    Reseved
+                </p>
+            </div>
+        </div>
     </div>
 </div>
+<!-- End. item_footer -->
+
+
+<!-- Back to top with progress indicator-->
+<div class="prgoress_indicator">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+</div>
+
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

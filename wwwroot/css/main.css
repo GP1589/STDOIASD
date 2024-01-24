@@ -13861,6 +13861,15 @@ software_web
   background-color: #0b2238;
 }
 
+.title_sections_inner::after {
+  content: "";
+  width: 50px;
+  height: 1px;
+  position: absolute;
+  left: 0;
+  background-color: #0b2238;
+}
+
 .grid_blog_avatar a {
   display: block;
 }
