@@ -13854,8 +13854,8 @@ software_web
 }
 .blog_slider .title_sections_inner::after {
   content: "";
-  width: 50px;
-  height: 1px;
+  width: 100%;
+  height: 3px;
   position: absolute;
   left: 0;
   background-color: #0b2238;
@@ -13863,8 +13863,8 @@ software_web
 
 .title_sections_inner::after {
   content: "";
-  width: 50px;
-  height: 1px;
+  width: 100%;
+  height: 3px;
   position: absolute;
   left: 0;
   background-color: #0b2238;
